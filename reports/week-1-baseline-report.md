@@ -27,11 +27,11 @@ This report captures the first baseline performance data after launching GA4 on 
 ## 2. Top Pages
 **Report Used:** GA4 Pages and Screens
 
-| Page | Views | Users | Average Engagement Time | Notes |
+| Page / Page Path | Views | Users | Average Engagement Time | Notes |
 |---|---:|---:|---:|---|
-| Home |  |  |  |  |
-| About / Contact Section |  |  |  |  |
-| Future Project Pages |  |  |  |  |
+| / |  |  |  | Homepage performance |
+| /#about or About section behavior |  |  |  | Contact / about engagement |
+| Future project page(s) |  |  |  | Add once live |
 
 ## 3. Event Counts
 **Report Used:** GA4 Events
@@ -46,10 +46,10 @@ This report captures the first baseline performance data after launching GA4 on 
 | project_click |  | Interest in portfolio content |
 
 ## 4. Early Insights
-- 
-- 
-- 
-- 
+- Most traffic during the baseline window came from:
+- The strongest engagement signal was:
+- The most-used CTA was:
+- The clearest optimization opportunity was:
 
 ## 5. Interpretation
 This first-week baseline establishes a clean starting point for future portfolio optimization. As more project pages and case studies are added, these metrics will help evaluate whether visitors are moving deeper into the portfolio and engaging with stronger conversion-oriented content.
@@ -59,3 +59,8 @@ This first-week baseline establishes a clean starting point for future portfolio
 - Add screenshots from GA4 reports
 - Compare CTA performance by location
 - Add Search Console data once enough impressions and clicks accumulate
+
+## 7. Notes / Limitations
+- Early data may include some self-testing traffic
+- Traffic volume is still low in the launch phase
+- Some project links are placeholders until full case study pages are published
