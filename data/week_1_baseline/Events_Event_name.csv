@@ -1,0 +1,21 @@
+# ----------------------------------------
+# Events: Event name
+# Account: Quinn Reams Analytics
+# Property: QuinnReams Portfolio
+# ----------------------------------------
+# 
+# All Users
+# Start date: 20260318
+# End date: 20260325
+Event name,Event count,Total users,Event count per active user,Total revenue
+page_view,102,29,3.5172413793103448,0
+user_engagement,53,13,4.076923076923077,0
+session_start,49,29,1.6896551724137931,0
+scroll,46,12,3.8333333333333335,0
+first_visit,29,29,1,0
+project_click,22,7,3.142857142857143,0
+click,21,2,10.5,0
+file_download,17,6,2.8333333333333335,0
+resume_download,14,5,2.8,0
+email_click,11,4,2.75,0
+github_click,7,1,7,0
